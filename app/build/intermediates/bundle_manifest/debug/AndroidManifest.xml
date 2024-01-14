@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.parafcf"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="30" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ParaFCF" >
+        <activity
+            android:name="com.example.parafcf.termina"
+            android:theme="@style/AppTheme.TemaPopup" >
+        </activity>
+        <activity
+            android:name="com.example.parafcf.fINAL"
+            android:theme="@style/AppTheme.TemaPopup" />
+        <activity
+            android:name="com.example.parafcf.Informacion"
+            android:label="Información" />
+        <activity
+            android:name="com.example.parafcf.Acercade"
+            android:label="Acerca de" />
+        <activity
+            android:name="com.example.parafcf.Splash"
+            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.parafcf.Probando" />
+        <activity
+            android:name="com.example.parafcf.Historial"
+            android:label="Estadísticas AUDIT" />
+        <activity
+            android:name="com.example.parafcf.Terrminar_cage"
+            android:theme="@style/AppTheme.TemaPopup" />
+        <activity
+            android:name="com.example.parafcf.Terminar_cid"
+            android:theme="@style/AppTheme.TemaPopup" />
+        <activity
+            android:name="com.example.parafcf.Terminar_audit"
+            android:label="AUDIT" />
+        <activity
+            android:name="com.example.parafcf.cage"
+            android:label="CAGE" />
+        <activity
+            android:name="com.example.parafcf.cid"
+            android:label="CID" />
+        <activity
+            android:name="com.example.parafcf.audit"
+            android:label="AUDIT" />
+        <activity android:name="com.example.parafcf.MainActivity" />
+    </application>
+
+</manifest>

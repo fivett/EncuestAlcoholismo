@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">EncuestAlcoholismo</string>
+    <string name="btn1">Btn1</string>
+    <string name="_1_con_qu_frecuencia_consume_bebidas_que_contienen_alcohol">1) ¿Con qué frecuencia consume bebidas que contienen alcohol?</string>
+    <string name="nunca">Nunca</string>
+    <string name="mensualmente_o_menos">Mensualmente o menos</string>
+    <string name="de_2_a_4_veces_al_mes">De 2 a 4 veces al mes</string>
+    <string name="_4_o_m_s_veces_a_la_semana">4 o más veces a la semana</string>
+    <string name="de_2_a_3_veces_a_la_semana">De 2 a 3 veces a la semana</string>
+    <string name="_2_cu_ntas_bebidas_alcoh_licas_toma_en_un_d_a_normal">2) ¿Cuántas bebidas alcohólicas toma en un día normal?</string>
+    <string name="_1_o_2">1 o 2</string>
+    <string name="_3_o_4">3 o 4</string>
+    <string name="_5_o_6">5 o 6</string>
+    <string name="de_7_a_9">De 7 a 9</string>
+    <string name="_10_o_m_s">10 o más</string>
+    <string name="_3_con_qu_frecuencia_toma_5_o_m_s_consumiciones_en_una_ocasi_n">3) ¿Con qué frecuencia toma 5 o más consumiciones en una ocasión?</string>
+    <string name="nunca1">Nunca</string>
+    <string name="menos_que_mensualmente">Menos que mensualmente</string>
+    <string name="mensualmente">Mensualmente</string>
+    <string name="semanalmente">Semanalmente</string>
+    <string name="a_diario_o_casi_a_diario">A diario o casi a diario</string>
+    <string name="_4_con_qu_frecuencia_en_el_ltimo_a_o_no_fue_capaz_de_dejar_de_beber_una_vez_que_hab_a_empezado">4) ¿Con qué frecuencia en el último año no fue capaz de dejar de beber una vez que había empezado?</string>
+    <string name="_1_considera_que_su_forma_de_beber_le_est_creando_dificultades_en_su_salud_en_su_familia_en_el_trabajo_o_en_sus_relaciones_con_los_vecinos">1. ¿Considera que su forma de beber le está creando dificultades en su salud, en su familia, en el trabajo o en sus relaciones con los vecinos?</string>
+    <string name="no">No</string>
+    <string name="s">Sí</string>
+    <string name="_2_considera_usted_que_tiene_dificultades_para_controlarse_cuando_bebe">2. ¿Considera usted que tiene dificultades para controlarse cuando bebe?</string>
+    <string name="_4_se_embriaga_usted_m_s_de_1_vez_al_mes_o_sea_m_s_de_12_veces_al_a_o">4. ¿Se embriaga usted más de 1 vez al mes, o sea más de 12 veces al año?</string>
+    <string name="_3_cuando_est_m_s_de_2_d_as_sin_beber_aparecen_malestares_por_falta_de_bebidas_alcoh_licas">3. Cuando está más de 2 días sin beber ¿aparecen malestares por falta de bebidas alcohólicas?</string>
+    <string name="_5_se_ha_despertado_alguna_vez_sin_recordar_lo_ocurrido_el_d_a_anterior">5. ¿Se ha despertado alguna vez sin recordar lo ocurrido el día anterior?</string>
+    <string name="_6_cree_usted_que_bebe_m_s_de_la_cuenta">6. ¿Cree usted que bebe más de la cuenta?</string>
+    <string name="_7_considera_usted_que_deber_a_recibir_ayuda_m_dica_o_tomar_menos">7. ¿Considera usted que debería recibir ayuda médica o tomar menos?</string>
+    <string name="_1_ha_sentido_alguna_vez_que_debe_beber_menos">1. ¿Ha sentido alguna vez que debe beber menos?</string>
+    <string name="submit">submit</string>
+    <string name="action_settings0">Limpiar historial</string>
+    <string name="action_settings">Acerca de</string>
+    <string name="action_settings1">Salir</string>
+
+
+    <string name="close_app">Close app</string>
+    <string name="dialog_message">AlerDialog</string>
+    <string name="dialog_title">GBAndroidBlogs</string>
+    <string name="success">Success</string>
+    <string name="warning">Warning</string>
+    <string name="error">Error</string>
+
+    <string name="success_title">Success Title</string>
+    <string name="warning_title">Warning Title</string>
+    <string name="error_title">Error Title</string>
+    <string name="dummy_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="okay">Okay</string>
+    <string name="yes">Yes</string>
+
+
+</resources>

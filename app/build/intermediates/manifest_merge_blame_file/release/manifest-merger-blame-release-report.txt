@@ -1,0 +1,126 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.parafcf"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:5:5-59:19
+12        android:allowBackup="true"
+12-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] C:\Users\Ivett\.gradle\caches\transforms-2\files-2.1\1602505273d43f41d2f450ba7fa6ad4f\core-1.5.0\AndroidManifest.xml:24:18-86
+14        android:icon="@mipmap/ic_launcher"
+14-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:7:9-43
+15        android:label="@string/app_name"
+15-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:8:9-41
+16        android:roundIcon="@mipmap/ic_launcher_round"
+16-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:9:9-54
+17        android:supportsRtl="true"
+17-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:10:9-35
+18        android:theme="@style/Theme.ParaFCF" >
+18-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:11:9-45
+19        <activity
+19-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:12:9-14:40
+20            android:name="com.example.parafcf.Estadisticas"
+20-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:13:13-41
+21            android:exported="false" />
+21-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:14:13-37
+22        <activity
+22-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:15:9-17:66
+23            android:name="com.example.parafcf.termina"
+23-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:16:13-36
+24            android:theme="@style/AppTheme.TemaPopup" />
+24-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:17:13-54
+25        <activity
+25-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:18:9-20:57
+26            android:name="com.example.parafcf.fINAL"
+26-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:19:13-34
+27            android:theme="@style/AppTheme.TemaPopup" />
+27-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:20:13-54
+28        <activity
+28-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:21:9-23:43
+29            android:name="com.example.parafcf.Informacion"
+29-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:22:13-40
+30            android:label="Información" />
+30-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:23:13-40
+31        <activity
+31-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:24:9-26:41
+32            android:name="com.example.parafcf.Acercade"
+32-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:25:13-37
+33            android:label="Acerca de" />
+33-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:26:13-38
+34        <activity
+34-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:27:9-35:20
+35            android:name="com.example.parafcf.Splash"
+35-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:28:13-35
+36            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" >
+36-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:29:13-77
+37            <intent-filter>
+37-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:30:13-34:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:31:17-69
+38-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:31:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:33:17-77
+40-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:33:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity android:name="com.example.parafcf.Probando" />
+43-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:36:9-46
+43-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:36:19-43
+44        <activity
+44-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:37:9-39:50
+45            android:name="com.example.parafcf.Historial"
+45-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:38:13-38
+46            android:label="Estadísticas AUDIT" />
+46-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:39:13-47
+47        <activity
+47-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:40:9-42:57
+48            android:name="com.example.parafcf.Terrminar_cage"
+48-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:41:13-43
+49            android:theme="@style/AppTheme.TemaPopup" />
+49-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:42:13-54
+50        <activity
+50-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:43:9-45:57
+51            android:name="com.example.parafcf.Terminar_cid"
+51-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:44:13-41
+52            android:theme="@style/AppTheme.TemaPopup" />
+52-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:45:13-54
+53        <activity
+53-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:46:9-48:37
+54            android:name="com.example.parafcf.Terminar_audit"
+54-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:47:13-43
+55            android:label="AUDIT" />
+55-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:48:13-34
+56        <activity
+56-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:49:9-51:36
+57            android:name="com.example.parafcf.cage"
+57-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:50:13-33
+58            android:label="CAGE" />
+58-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:51:13-33
+59        <activity
+59-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:52:9-54:35
+60            android:name="com.example.parafcf.cid"
+60-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:53:13-32
+61            android:label="CID" />
+61-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:54:13-32
+62        <activity
+62-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:55:9-57:37
+63            android:name="com.example.parafcf.audit"
+63-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:56:13-34
+64            android:label="AUDIT" />
+64-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:57:13-34
+65        <activity android:name="com.example.parafcf.MainActivity" />
+65-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:58:9-50
+65-->D:\Android\AndroidStudioProjects\ParaFCF\app\src\main\AndroidManifest.xml:58:19-47
+66    </application>
+67
+68</manifest>
